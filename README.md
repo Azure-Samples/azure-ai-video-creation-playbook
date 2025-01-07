@@ -108,7 +108,6 @@ flowchart LR
     A(Draft) --> B(Review) --> C(Feedback Integration) --> D(Final Approval)
 ```
 
-
 ## Step 3: Voice-Over Creation Using Azure AI
 
 ### Objective
@@ -128,7 +127,7 @@ SPEECH_VOICE_NAME=
 SPEECH_LANGUAGE=
 ```
 
-## Step 4: Avatar Animation and Captioning with Adobe Express
+## Step 4: Avatar Animation and Captioning with Adobe Express (optional)
 
 ### Objective
 Enhance video engagement with animated avatars and captions.
