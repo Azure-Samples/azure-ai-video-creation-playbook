@@ -90,15 +90,15 @@ Here is the full outline:
 6.5. Continuous Deployment and Azure Container Apps 
 ```
 
-## Step 2: Validation by the Product Group
+## Step 2: Validation by the Product Owner
 
 ### Objective
 Ensure the script is technically accurate and aligns with product goals.
 
 ### Process
-Share the draft script with stakeholders for review.
-Gather feedback in a structured format (e.g., comments in Word or Teams).
-Revise the script accordingly.
+1. Share the draft script with stakeholders for review.
+2. Gather feedback in a structured format (e.g., comments in Word or Teams).
+3. Revise the script accordingly.
 
 ### Visual Aid
 Workflow Diagram:
@@ -127,10 +127,17 @@ SPEECH_VOICE_NAME=
 SPEECH_LANGUAGE=
 ```
 
-## Step 4: Avatar Animation and Captioning with Adobe Express (optional)
+> [!IMPORTANT]  
+> Make sure the voice model you are using allows customisation.
+
+
+## Step 4: Avatar Animation and Captioning (optional)
 
 ### Objective
-Enhance video engagement with animated avatars and captions.
+Enhance video engagement with animated avatars and captions. This section is optional, you can skip it if you already have the video content available.
+
+> [!NOTE]  
+> In the current example we are using Adobe Express but you can use other tools.
 
 ### Process: Animate Characters
 1. Navigate to https://new.express.adobe.com/home/tools/animate-from-audio
@@ -153,10 +160,14 @@ Enhance video engagement with animated avatars and captions.
 
 ![image](https://github.com/user-attachments/assets/c09ee49b-b252-417a-8e59-805b89d255cd)
 
-## Step 5: Video Editing in Adobe Premiere Pro
+## Step 5: Video Editing
 
 ### Objective
-Refine videos by adding professional edits and visual assets.
+Refine videos by adding professional edits and visual assets. 
+
+
+> [!NOTE]  
+> In the current example, we are using Adobe Premiere Pro, but you can use any video editing software.
 
 ### Process
 1. Import the MP4 video into Adobe Premiere Pro (or use any other video editing software)
