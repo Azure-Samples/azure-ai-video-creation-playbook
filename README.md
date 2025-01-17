@@ -1,7 +1,6 @@
-# Creating Engaging Product Videos with Azure AI and Design Tools
+# Creating Engaging Videos with Azure AI
 
-This handbook outlines the step-by-step process for creating product videos using AI-driven tools such as Azure AI Speech. Each section includes visual aids and templates to guide you through the workflow.
-
+This playbook outlines the step-by-step process for creating product videos using AI-driven tools such as Azure AI Speech. Each section includes visual aids and templates to guide you through the workflow.
 
 ## Step 1: Script Generation Using ChatGPT
 
