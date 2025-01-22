@@ -2,6 +2,9 @@
 
 This playbook outlines the step-by-step process for creating product videos using AI-driven tools such as Azure AI Speech. Each section includes visual aids and templates to guide you through the workflow.
 
+![Creating Engaging Videos with Azure AI - visual selection dark bg](https://github.com/user-attachments/assets/a322a8c9-87c8-42bb-94fb-c357caefe38c#gh-dark-mode-only)
+![Creating Engaging Videos with Azure AI - visual selection light bg](https://github.com/user-attachments/assets/b83f0aa1-873c-41d4-88f8-4d6fe9d57286#gh-light-mode-only)
+
 ## Step 1: Script Generation Using ChatGPT
 
 ### Objective
