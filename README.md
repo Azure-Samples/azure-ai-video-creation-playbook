@@ -16,6 +16,9 @@ Refine the output based on feedback or additional prompts.
 
 The following is the prompt we used to generate the video scripts for Azure Container Apps:
 
+<details>
+<summary>Click to view the prompt</summary>
+
 ```
 Use the following outline about Azure Container Apps.
 Extract the top 5 topics.
@@ -91,6 +94,8 @@ Here is the full outline:
 6.4. Using Azure Monitor 
 6.5. Continuous Deployment and Azure Container Apps 
 ```
+    
+</details>details>
 
 ## Step 2: Validation by the Product Owner
 
@@ -104,6 +109,11 @@ Ensure the script is technically accurate and aligns with product goals.
 
 ### Visual Aid
 Workflow Diagram:
+
+![Creating Engaging Videos with Azure AI - Validation by the Product Owner - light bg](https://github.com/user-attachments/assets/bd3cf06d-15e6-4eaa-a21d-4c6de9e82a22#gh-light-mode-only)
+![Creating Engaging Videos with Azure AI - Validation by the Product Owner - dark bg](https://github.com/user-attachments/assets/ced08c57-4906-46a6-a26d-3c36ce6157f8#gh-dark-mode-only)
+
+
 
 ```mermaid
 flowchart LR
