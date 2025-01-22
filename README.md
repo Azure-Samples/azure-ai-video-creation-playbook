@@ -104,7 +104,7 @@ Ensure the script is technically accurate and aligns with product goals.
 
 ### Process
 1. Share the draft script with stakeholders for review.
-2. Gather feedback in a structured format (e.g., comments in Word or Teams).
+2. Gather feedback in a structured format.
 3. Revise the script accordingly.
 
 ### Visual Aid
