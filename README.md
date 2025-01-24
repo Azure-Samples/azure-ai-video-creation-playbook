@@ -195,6 +195,7 @@ Refine videos by adding professional edits and visual assets.
 - Asset integration and narrative illustration require creative input.
 
 ### Helpful Links
+- https://github.com/manekinekko/azure-text-to-speech-demo
 - https://speech.microsoft.com/
 - https://www.adobe.com/express/
 - https://helpx.adobe.com/premiere-pro/tutorials.html
