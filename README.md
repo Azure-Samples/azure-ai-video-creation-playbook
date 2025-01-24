@@ -95,7 +95,7 @@ Here is the full outline:
 6.5. Continuous Deployment and Azure Container Apps 
 ```
     
-</details>details>
+</details>
 
 ## Step 2: Validation by the Product Owner
 
