@@ -110,8 +110,8 @@ Ensure the script is technically accurate and aligns with product goals.
 ### Visual Aid
 Workflow Diagram:
 
-![Creating Engaging Videos with Azure AI - Validation by the Product Owner - light bg](https://github.com/user-attachments/assets/bd3cf06d-15e6-4eaa-a21d-4c6de9e82a22#gh-light-mode-only)
-![Creating Engaging Videos with Azure AI - Validation by the Product Owner - dark bg](https://github.com/user-attachments/assets/ced08c57-4906-46a6-a26d-3c36ce6157f8#gh-dark-mode-only)
+![Creating Engaging Videos with Azure AI - visual selection dark bg](./docs/azure-ai-video-creation-playbook-dark-bg.png#gh-dark-mode-only)
+![Creating Engaging Videos with Azure AI - visual selection light bg](./docs/azure-ai-video-creation-playbook-light-bg.png#gh-light-mode-only)
 
 ## Step 3: Voice-Over Creation Using Azure AI
 
